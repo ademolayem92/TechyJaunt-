@@ -1,6 +1,6 @@
 # TechyJaunt-
 
-The file Ademola Oluwayemisi Israel (BE) javascript_practice_answers.md"** is a comprehensive JavaScript learning resource that covers 25 practice questions organized into 8 major topics:
+The file Ademola Oluwayemisi Israel (BE) javascript_practice_answers.md is a comprehensive JavaScript learning resource that covers 25 practice questions organized into 8 major topics:
 
 1. Variables – Demonstrates `var`, `let`, and `const` declarations, variable naming rules, and scope/hoisting behavior
 2. Data Types – Shows how to work with objects, arrays, and the `typeof` operator across all JavaScript data types
